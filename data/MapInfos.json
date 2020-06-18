@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Matin's house","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"Felix's house","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":417.3333333333333},
+{"id":3,"expanded":false,"name":"Demon Castle","order":3,"parentId":0,"scrollX":940,"scrollY":1776},
+{"id":4,"expanded":false,"name":"Demon Castle 1F","order":4,"parentId":0,"scrollX":1100,"scrollY":1972},
+{"id":5,"expanded":false,"name":"Felix's house","order":5,"parentId":0,"scrollX":722.6666666666666,"scrollY":417.3333333333333},
+{"id":6,"expanded":false,"name":"Downtown","order":6,"parentId":0,"scrollX":816,"scrollY":624}
+]

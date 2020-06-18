@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"Mr Zahremar","characterIndex":0,"characterName":"Mr Zahremar","classId":3,"equips":[5,0,2,3,4],"faceIndex":0,"faceName":"Mr Zahremar","traits":[{"code":51,"dataId":9,"value":1},{"code":41,"dataId":2,"value":1},{"code":43,"dataId":16,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Mr Zahremar","nickname":"Matin","note":"","profile":""},
+{"id":2,"battlerName":"Pewds","characterIndex":0,"characterName":"Pewds","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Pewd","traits":[],"initialLevel":1,"maxLevel":99,"name":"Felix","nickname":"Pewds","note":"","profile":""},
+{"id":3,"battlerName":"Amir","characterIndex":0,"characterName":"Amir","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Amir","traits":[{"code":43,"dataId":17,"value":1}],"initialLevel":1,"maxLevel":99,"name":"AMIR-REZA","nickname":"Amirreza","note":"","profile":"T H I C C er than a Snicker"},
+{"id":4,"battlerName":"fem Katsu","characterIndex":0,"characterName":"fem Katsu","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"fem Katsu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Emilia","nickname":"SIMPabel","note":"","profile":"T H I C C"},
+{"id":5,"battlerName":"Katsu","characterIndex":0,"characterName":"Katsu","classId":1,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Katsu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Katsu","nickname":"","note":"","profile":"♣ Technicaly not a waifu ♣"},
+{"id":6,"battlerName":"Katsu","characterIndex":0,"characterName":"Katsu","classId":2,"equips":[5,1,2,3,4],"faceIndex":0,"faceName":"Katsu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Katsu","nickname":"","note":"","profile":"♣ Technicaly not a waifu ♣"}
+]
